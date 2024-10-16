@@ -1,57 +1,44 @@
-<div align="center">
-  <img src="https://d2ms8rpfqc4h24.cloudfront.net/What_are_Flutter_and_Dart_Where_is_it_Useful1_12100cd269.jpg" alt="Flutter Image">
+<h1 align="center">Hi 👋, I'm Idris Adedeji (Heebu Prime)</h1>
+<h3 align="center">a passionate Flutter developer with a love for crafting beautiful and functional mobile applications. I'm here to share my journey in the world of Flutter, Dart, React/Next.js, Javascript, Firebase, Superbase, and more.</h3>
 
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=heebu&label=Profile%20views&color=0e75b6&style=flat" alt="heebu" /> </p>
 
-<h1 align="center">🚀 Flutter Developer | 🎯 Dart Enthusiast | 🔥 Firebase Expert</h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heebu" alt="heebu" /></a> </p>
 
-<p align="center">👋 Hi there! I'm Heebu-Prime, a passionate Flutter developer with a love for crafting beautiful and functional mobile applications. I'm here to share my journey in the world of Flutter, Dart, Firebase, Superbase, HTTP calls, and more.</p>
+<p align="left"> <a href="https://twitter.com/heebu_prime" target="blank"><img src="https://img.shields.io/twitter/follow/heebu_prime?logo=twitter&style=for-the-badge" alt="heebu_prime" /></a> </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/58117224/122635830-a2b7e580-d103-11eb-8e2d-485480a24a46.gif" width="400" alt="App Screenshot">
-</div>
+- 🔭 I’m currently working on [MedCare App](https://github.com/Heebu/med_care.git)
 
-<h2 align="center">📱 Specializations</h2>
+- 🌱 I’m currently learning **React, Next.js**
 
-<p align="center">I specialize in Flutter, Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase. Whether it's creating stunning user interfaces or optimizing app performance, I'm up for the challenge.</p>
+- 👯 I’m looking to collaborate on [Rex-sell](https://github.com/Heebu/funnab_rexell.git)
 
-<div align="center">
-  <img src="flutter_app.gif" width="400" alt="Flutter App Demo">
-</div>
+- 🤝 I’m looking for help with **Flutter 3d, flutterflame**
 
-<h2 align="center">🔥 Firebase & Superbase</h2>
+- 💬 Ask me about **Flutter, dart, firebase, superbase, React**
 
-<p align="center">Firebase is my go-to backend for building scalable and feature-rich applications. Real-time databases, authentication, and cloud functions are just some of the tools I leverage to create seamless user experiences.</p>
+- 📫 How to reach me **ayblazz@gmail.com**
 
-<p align="center">I'm also a fan of Superbase, the open-source Firebase alternative. It's exciting to explore new technologies that empower developers to build fast and secure apps.</p>
+- 📄 Know about my experiences [https://docs.google.com/document/d/1NVlwxn8Oaiivk0Ea0nHl4YMbE3JG_LxGKejJ660v63Y/edit?usp=sharing](https://docs.google.com/document/d/1NVlwxn8Oaiivk0Ea0nHl4YMbE3JG_LxGKejJ660v63Y/edit?usp=sharing)
 
-<div align="center">
-  <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" width="200" alt="Firebase Logo">
-  <img src="https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/588/400/original/profile_pic.png?1665772600" width="200" alt="Superbase Logo">
-</div>
+- ⚡ Fun fact **I love video games**
 
-<h2 align="center">💡 Open Source & Contributions</h2>
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<p align="center">I'm passionate about clean code, best practices, and sharing knowledge with the community. You can find my open-source contributions, Flutter packages, and side projects on my GitHub profile.</p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/heebu_prime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heebu_prime" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/idris-adedeji-1b3162246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="idris-adedeji-1b3162246" height="30" width="40" /></a>
+<a href="https://medium.com/@heebu-prime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@heebu-prime" height="30" width="40" /></a>
+</p>
 
-<div align="center">
-  <a href="https://github.com/Heebu/Heebu">
-    <img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" width="100" alt="GitHub Logo">
-  </a>
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-<h2 align="center">📚 Let's Connect!</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heebu&show_icons=true&locale=en&layout=compact" alt="heebu" /></p>
 
-<p align="center">Let's connect, learn, and build together! Feel free to reach out for collaboration, code reviews, or just a friendly chat. Happy coding! 🌟</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heebu&show_icons=true&locale=en" alt="heebu" /></p>
 
-<div align="center">
-  <a href="mailto:ayblazz@gmail.com">
-    <img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" width="50" alt="Email Icon">
-  </a>
-  <a href="https://twitter.com/iam_Heebu_Prime">
-    <img src="https://cdn.appleosophy.com/2023/07/IMG-0941.jpeg" width="50" alt="Twitter Icon">
-  </a>
-  <a href="https://ng.linkedin.com/in/idris-adedeji-heebu-prime">
-    <img src="https://e24joaz2t6m.exactdn.com/wp-content/uploads/2021/03/linkedinappicon.jpg" width="50" alt="LinkedIn Icon">
-  </a>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heebu&" alt="heebu" /></p>
