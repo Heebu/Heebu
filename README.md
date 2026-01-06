@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="header.png" width="100%" alt="Banner" style="border-radius: 0px; box-shadow: 0px 0px 20px rgba(0, 255, 65, 0.5);">
+  <!-- <img src="header.png" width="100%" alt="Banner" style="border-radius: 0px; box-shadow: 0px 0px 20px rgba(0, 255, 65, 0.5);"> -->
   <br/>
   
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=1000&lines=WARNING%3A+ELITE+DEV+AHEAD_%E2%9A%A0%EF%B8%8F;System.initialized(Heebu_Prime);Loading+Skills...+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D;Executing+Flutter.exe...;Deployed+Next.js+Applications..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=1000&lines=ELITE+DEV+AHEAD_%E2%9A%A0%EF%B8%8F;System.initialized(Heebu_Prime);Loading+Skills...+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D;Executing+Flutter.exe...;Deployed+Next.js+Applications..." alt="Typing SVG" />
   </h1>
 
   <br/>
