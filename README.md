@@ -108,29 +108,15 @@
 ## 📊 `// REAL_TIME_QUANTUM_METRICS`
 
 <div align="center">
-
-  <!-- Streak Stats Card -->
+  <!-- Quantum Telemetry Overview Card -->
   <a href="https://github.com/Heebu">
-    <img src="https://streak-stats.demolab.com/?user=Heebu&theme=tokyonight&background=060913&border=1E293B&stroke=00F0FF&ring=7928CA&fire=00F0FF&currStreakLabel=00F0FF&dates=94A3B8" alt="GitHub Streak Stats" height="195" />
+    <img src="assets/quantum_stats.svg" width="49%" alt="Quantum Telemetry Overview" />
   </a>
   &nbsp;
-  <!-- GitHub Stats Card -->
+  <!-- Quantum Core Languages Matrix -->
   <a href="https://github.com/Heebu">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Heebu&show_icons=true&include_all_commits=true&theme=tokyonight&bg_color=060913&title_color=00F0FF&icon_color=7928CA&text_color=94A3B8&border_color=1E293B" alt="Overall GitHub Stats" height="195" />
+    <img src="assets/quantum_languages.svg" width="49%" alt="Quantum Language Matrix" />
   </a>
-
-  <br/><br/>
-
-  <!-- Top Languages Card -->
-  <a href="https://github.com/Heebu">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Heebu&layout=compact&theme=tokyonight&bg_color=060913&title_color=00F0FF&text_color=94A3B8&border_color=1E293B" alt="Top Languages" height="195" />
-  </a>
-  &nbsp;
-  <!-- Productive Time Card -->
-  <a href="https://github.com/Heebu">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Heebu&theme=tokyonight" alt="Productive Time" height="195" />
-  </a>
-
 </div>
 
 <br/>

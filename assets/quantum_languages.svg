@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 235" width="460" height="235" fill="none">
+  <defs>
+    <linearGradient id="bgGrad2" x1="0" y1="0" x2="460" y2="235" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#080C1A"/>
+      <stop offset="100%" stop-color="#04060D"/>
+    </linearGradient>
+    <linearGradient id="borderGrad2" x1="0" y1="0" x2="460" y2="235" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#7928CA" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#00F0FF" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#FF007F" stop-opacity="0.7"/>
+    </linearGradient>
+    <linearGradient id="dartGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00F0FF"/>
+      <stop offset="100%" stop-color="#02569B"/>
+    </linearGradient>
+    <linearGradient id="cppGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#6366F1"/>
+    </linearGradient>
+    <linearGradient id="jsGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00FF9D"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+    <linearGradient id="webGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#D97706"/>
+    </linearGradient>
+    <linearGradient id="otherGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#0284C7"/>
+    </linearGradient>
+    <filter id="neonGlow2" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <style>
+    .title { font-family: 'Fira Code', 'Courier New', monospace; font-size: 13px; font-weight: 700; fill: #A855F7; letter-spacing: 2px; }
+    .lang-lbl { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 12px; font-weight: 600; fill: #E2E8F0; }
+    .lang-pct { font-family: 'Fira Code', monospace; font-size: 12px; font-weight: 700; fill: #94A3B8; text-anchor: end; }
+    .bar-bg { fill: #0E1528; rx: 4; }
+    .bar-fill { rx: 4; }
+  </style>
+
+  <!-- Card Background -->
+  <rect x="2" y="2" width="456" height="231" rx="12" fill="url(#bgGrad2)"/>
+  <rect x="2" y="2" width="456" height="231" rx="12" stroke="url(#borderGrad2)" stroke-width="1.5"/>
+
+  <!-- Corner Brackets -->
+  <path d="M 8 16 L 8 8 L 16 8" stroke="#A855F7" stroke-width="2" fill="none"/>
+  <path d="M 452 16 L 452 8 L 444 8" stroke="#A855F7" stroke-width="2" fill="none"/>
+  <path d="M 8 219 L 8 227 L 16 227" stroke="#A855F7" stroke-width="2" fill="none"/>
+  <path d="M 452 219 L 452 227 L 444 227" stroke="#A855F7" stroke-width="2" fill="none"/>
+
+  <!-- Header Section -->
+  <circle cx="22" cy="24" r="4" fill="#A855F7" filter="url(#neonGlow2)">
+    <animate attributeName="opacity" values="1;0.4;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="35" y="28" class="title">// LANGUAGE MATRIX</text>
+  <text x="430" y="27" style="font-family:'Fira Code'; font-size:10px; fill:#00F0FF; text-anchor:end; font-weight:700;">DOMINANT: DART</text>
+
+  <!-- Language 1: Dart -->
+  <g transform="translate(25, 48)">
+    <circle cx="4" cy="5" r="4" fill="#00F0FF"/>
+    <text x="16" y="9" class="lang-lbl">Dart (Flutter Engine)</text>
+    <text x="405" y="9" class="lang-pct" fill="#00F0FF">54.3%</text>
+    <rect x="0" y="16" width="410" height="8" class="bar-bg"/>
+    <rect x="0" y="16" width="222" height="8" fill="url(#dartGrad)" class="bar-fill"/>
+  </g>
+
+  <!-- Language 2: C++ -->
+  <g transform="translate(25, 84)">
+    <circle cx="4" cy="5" r="4" fill="#A855F7"/>
+    <text x="16" y="9" class="lang-lbl">C++ (Systems Core)</text>
+    <text x="405" y="9" class="lang-pct" fill="#A855F7">21.7%</text>
+    <rect x="0" y="16" width="410" height="8" class="bar-bg"/>
+    <rect x="0" y="16" width="88" height="8" fill="url(#cppGrad)" class="bar-fill"/>
+  </g>
+
+  <!-- Language 3: JavaScript / TypeScript -->
+  <g transform="translate(25, 120)">
+    <circle cx="4" cy="5" r="4" fill="#00FF9D"/>
+    <text x="16" y="9" class="lang-lbl">JavaScript / TypeScript</text>
+    <text x="405" y="9" class="lang-pct" fill="#00FF9D">15.2%</text>
+    <rect x="0" y="16" width="410" height="8" class="bar-bg"/>
+    <rect x="0" y="16" width="62" height="8" fill="url(#jsGrad)" class="bar-fill"/>
+  </g>
+
+  <!-- Language 4: Modern Web (HTML/CSS) -->
+  <g transform="translate(25, 156)">
+    <circle cx="4" cy="5" r="4" fill="#F59E0B"/>
+    <text x="16" y="9" class="lang-lbl">HTML5 / CSS3 / Web UI</text>
+    <text x="405" y="9" class="lang-pct" fill="#F59E0B">6.5%</text>
+    <rect x="0" y="16" width="410" height="8" class="bar-bg"/>
+    <rect x="0" y="16" width="26" height="8" fill="url(#webGrad)" class="bar-fill"/>
+  </g>
+
+  <!-- Language 5: Tooling & Systems -->
+  <g transform="translate(25, 192)">
+    <circle cx="4" cy="5" r="4" fill="#38BDF8"/>
+    <text x="16" y="9" class="lang-lbl">Build &amp; System Scripts (CMake / Shell)</text>
+    <text x="405" y="9" class="lang-pct" fill="#38BDF8">2.3%</text>
+    <rect x="0" y="16" width="410" height="8" class="bar-bg"/>
+    <rect x="0" y="16" width="9" height="8" fill="url(#otherGrad)" class="bar-fill"/>
+  </g>
+</svg>
