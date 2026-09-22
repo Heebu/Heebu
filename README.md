@@ -1,114 +1,159 @@
 <div align="center">
-  <!-- <img src="header.png" width="100%" alt="Banner" style="border-radius: 0px; box-shadow: 0px 0px 20px rgba(0, 255, 65, 0.5);"> -->
+  <!-- Quantum Cyberdeck Panoramic Hero Banner -->
+  <a href="https://github.com/Heebu">
+    <img src="assets/cyber_banner.jpg" width="100%" alt="Idris Adedeji // Quantum Cyberdeck Terminal" style="border-radius: 12px; box-shadow: 0 0 35px rgba(0, 240, 255, 0.35);" />
+  </a>
+
   <br/>
-  
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=1000&lines=ELITE+DEV+AHEAD_%E2%9A%A0%EF%B8%8F;System.initialized(Heebu_Prime);Loading+Skills...+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D;Executing+Flutter.exe...;Deployed+Next.js+Applications..." alt="Typing SVG" />
+
+  <!-- Fluid Animated Wave Accent -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F0FF,50:7928CA,100:00FF9D&height=100&section=header" width="100%" />
+
+  <!-- Multi-Line Dynamic Holographic Typing HUD -->
+  <h1>
+    <a href="https://github.com/Heebu">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1100&color=00F0FF&center=true&vCenter=true&width=900&lines=SYSTEM.ONLINE%3A+HEEBU_PRIME+INITIALIZED_%E2%9A%A1;IDRIS+ADEDEJI+%7C%7C+FLUTTER+ENGINEER+%26+SYSTEMS+ARCHITECT;AUTHOR+OF+FLART+%5BDART+LIGHTWEIGHT+WEB+FRAMEWORK%5D;ARCHITECT+OF+NearLinkChat+%5BOFFLINE+P2P+MESH+COMMUNICATIONS%5D;SCALING+NEXT-GEN+CROSS-PLATFORM+APPLICATIONS" alt="Typing SVG" />
+    </a>
   </h1>
 
-  <br/>
+  <!-- Neural Comm Badges -->
+  <p align="center">
+    <a href="https://github.com/Heebu" target="_blank">
+      <img src="https://img.shields.io/badge/GITHUB_TERMINAL-060913?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=060913&border=1px_solid_%2300F0FF" alt="GitHub" />
+    </a>
+    &nbsp;
+    <a href="https://twitter.com/Heebu_Prime" target="_blank">
+      <img src="https://img.shields.io/badge/TWITTER_%2F_X-060913?style=for-the-badge&logo=x&logoColor=00F0FF&labelColor=060913" alt="Twitter / X" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/idris-adedeji-1b3162246/" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060913" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:106799410+Heebu@users.noreply.github.com">
+      <img src="https://img.shields.io/badge/ENCRYPTED_MAIL-060913?style=for-the-badge&logo=gmail&logoColor=00FF9D&labelColor=060913" alt="Encrypted Email" />
+    </a>
+    &nbsp;
+    <a href="https://my-cv-app-theta.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/HOLODECK_CV-7928CA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=060913" alt="Interactive CV" />
+    </a>
+  </p>
 
-  <!-- Social Glitch Links -->
-  <a href="https://github.com/Heebu">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000&border=1px solid #00FF41" />
-  </a>
-  <a href="https://twitter.com/Heebu_Prime">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=00FF41&labelColor=000000&border=1px solid #00FF41" />
-  </a>
-  <a href="https://www.linkedin.com/in/idris-adedeji-1b3162246/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000&border=1px solid #00FF41" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/ENCRYPTED_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000&border=1px solid #00FF41" />
-  </a>
+  <!-- Cyber Animated Pulse Divider -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Cyber Divider" />
 
 </div>
 
 <br/>
 
-<!-- Terminal Bio -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</div>
+## 🛸 `// SYSTEM_TELEMETRY.log`
 
-```bash
-> user.current_location
-  "Lagos, Nigeria"
-
-> user.role
-  "Flutter Engineer & Full-Stack Architect"
-
-> user.mission
-  "Building scalable digital infrastructure with pixel-perfect precision."
-
-> user.availability
-  "Open for high-impact collaborations."
+```yaml
+┌──[ SYSTEM OPERATOR PROTOCOL ]──────────────────────────────────────────────────┐
+│  • OPERATOR         : Idris Adedeji (Alias: Heebu_Prime)                       │
+│  • DOMAIN           : Mobile Ecosystems • Full-Stack Architecture • Networks   │
+│  • COORDINATES      : Lagos, Nigeria [Sector 01 // Earth]                      │
+│  • CORE RUNTIMES    : Flutter • Dart • React • Next.js • TypeScript • Node.js  │
+│  • SPECIALTY        : Offline P2P Mesh Protocols • High-Performance Dart Engines│
+│  • AVAILABILITY     : 🟢 Hyper-Threaded for High-Impact Venture Collaborations  │
+│  • MOTTO            : "Architecting zero-latency digital systems with finesse"  │
+└────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=Heebu&theme=matrix&no-frame=true&margin-w=15&margin-h=15&column=7" alt="trophies" />
-</div>
-
-<br/>
-<br/>
-
-## ⚡ Mainframe Access :: Tech Stack
+## ⚡ `// QUANTUM_INNOVATION_DOCK`
 
 <div align="center">
-    <!-- Flutter / Mobile -->
-	<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-	<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=00FF41" />
-    <br/>
-    <!-- Web -->
-	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-	<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <br/>
-    <!-- Backend & Tools -->
-	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-	<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
-	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+| Project Node | Architecture | Cyberdeck Protocol & Mission | Status | Live Terminal |
+| :--- | :--- | :--- | :---: | :---: |
+| 🌐 **[`flart`](https://github.com/Heebu/flart)** | `Dart` • `Web Engine` | Lightweight Flutter-inspired web development framework built in pure Dart | `⚡ ACTIVE R&D` | [**Inspect Repository**](https://github.com/Heebu/flart) |
+| 📡 **[`NearLinkChat`](https://github.com/Heebu/NearLinkChat)** | `Flutter` • `P2P Mesh` | Offline network application allowing local Wi-Fi voice calls & messaging with zero internet | `🟢 PRODUCTION` | [**Inspect Repository**](https://github.com/Heebu/NearLinkChat) |
+| 🚀 **[`prime_brower`](https://github.com/Heebu/prime_brower)** | `Flutter` • `Mobile` | Lightweight high-speed mobile browser engineered for high-performance browsing | `🚀 DEPLOYED` | [**Inspect Repository**](https://github.com/Heebu/prime_brower) |
+| 💼 **[`my_cv_app`](https://github.com/Heebu/my_cv_app)** | `JavaScript` • `Vercel` | Interactive full-stack curriculum vitae and developer portfolio experience | `🌐 ONLINE` | [**Launch Application**](https://my-cv-app-theta.vercel.app) |
+
 </div>
 
 <br/>
 
-## � System Metrics
+## 🛰️ `// TECH_ARSENAL & WEAPONRY`
 
 <div align="center">
-  <!-- Stats Card -->
+
+### 📱 Mobile & Systems Engineering
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,apple,linux&theme=dark" alt="Mobile Stack" />
+</p>
+
+### 🌐 Frontend Architectures & Web Ecosystems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" alt="Frontend Stack" />
+</p>
+
+### ⚙️ Backend Systems, Databases & Cloud Infra
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,firebase,graphql&theme=dark" alt="Backend Stack" />
+</p>
+
+### 🛠️ DevOps, Tooling & Orchestration
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,figma,vscode&theme=dark" alt="DevOps Stack" />
+</p>
+
+</div>
+
+<br/>
+
+## 📊 `// REAL_TIME_QUANTUM_METRICS`
+
+<div align="center">
+
+  <!-- Streak Stats Card -->
   <a href="https://github.com/Heebu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Heebu&show_icons=true&include_all_commits=true&theme=react&bg_color=0D1117&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" alt="Heebu's stats" height="180" />
+    <img src="https://streak-stats.demolab.com/?user=Heebu&theme=tokyonight&background=060913&border=1E293B&stroke=00F0FF&ring=7928CA&fire=00F0FF&currStreakLabel=00F0FF&dates=94A3B8" alt="GitHub Streak Stats" height="195" />
   </a>
-  
-  <!-- Languages Card -->
+  &nbsp;
+  <!-- GitHub Stats Card -->
   <a href="https://github.com/Heebu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heebu&layout=compact&theme=react&bg_color=0D1117&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" alt="Top Languages" height="180" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Heebu&show_icons=true&include_all_commits=true&theme=tokyonight&bg_color=060913&title_color=00F0FF&icon_color=7928CA&text_color=94A3B8&border_color=1E293B" alt="Overall GitHub Stats" height="195" />
   </a>
+
+  <br/><br/>
+
+  <!-- Top Languages Card -->
+  <a href="https://github.com/Heebu">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Heebu&layout=compact&theme=tokyonight&bg_color=060913&title_color=00F0FF&text_color=94A3B8&border_color=1E293B" alt="Top Languages" height="195" />
+  </a>
+  &nbsp;
+  <!-- Productive Time Card -->
+  <a href="https://github.com/Heebu">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Heebu&theme=tokyonight" alt="Productive Time" height="195" />
+  </a>
+
+</div>
+
+<br/>
+
+## 🏆 `// SYSTEM_HONORS & TROPHIES`
+
+<div align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=Heebu&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&column=7" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+## 👾 `// CONTRIBUTION_SNAKE_MATRIX`
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Heebu/Heebu/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Grid Snake Animation" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Heebu&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
+  <!-- Waving Gradient Wave Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00FF9D,50:7928CA,100:00F0FF&height=90&section=footer" width="100%" />
 
-<br/>
-
-## 🛸 Contribution Snake
-<div align="center">
-  <img src="https://github.com/Heebu/Heebu/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
-<!-- Note: To get the snake working, you need to set up a GitHub Action workflow. -->
-<!-- See instructions below on how to enable this beast. -->
-
-<br/>
-<br/>
-
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&fontSize=0" width="100%" />
+  <sub>⚡ Powered by Quantum Circuitry & Continuous Integration // Built with Precision for <b>Heebu</b> ⚡</sub>
 </div>
