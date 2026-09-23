@@ -64,34 +64,34 @@
   <g transform="translate(25, 48)">
     <circle cx="4" cy="5" r="4" fill="#00F0FF"/>
     <text x="16" y="9" class="lang-lbl">Dart (Flutter Engine)</text>
-    <text x="405" y="9" class="lang-pct" fill="#00F0FF">54.3%</text>
+    <text x="405" y="9" class="lang-pct" fill="#00F0FF">53.2%</text>
     <rect x="0" y="16" width="410" height="8" class="bar-bg"/>
-    <rect x="0" y="16" width="222" height="8" fill="url(#dartGrad)" class="bar-fill"/>
+    <rect x="0" y="16" width="218" height="8" fill="url(#dartGrad)" class="bar-fill"/>
   </g>
 
   <!-- Language 2: C++ -->
   <g transform="translate(25, 84)">
     <circle cx="4" cy="5" r="4" fill="#A855F7"/>
     <text x="16" y="9" class="lang-lbl">C++ (Systems Core)</text>
-    <text x="405" y="9" class="lang-pct" fill="#A855F7">21.7%</text>
+    <text x="405" y="9" class="lang-pct" fill="#A855F7">21.3%</text>
     <rect x="0" y="16" width="410" height="8" class="bar-bg"/>
-    <rect x="0" y="16" width="88" height="8" fill="url(#cppGrad)" class="bar-fill"/>
+    <rect x="0" y="16" width="87" height="8" fill="url(#cppGrad)" class="bar-fill"/>
   </g>
 
   <!-- Language 3: JavaScript / TypeScript -->
   <g transform="translate(25, 120)">
     <circle cx="4" cy="5" r="4" fill="#00FF9D"/>
     <text x="16" y="9" class="lang-lbl">JavaScript / TypeScript</text>
-    <text x="405" y="9" class="lang-pct" fill="#00FF9D">15.2%</text>
+    <text x="405" y="9" class="lang-pct" fill="#00FF9D">14.9%</text>
     <rect x="0" y="16" width="410" height="8" class="bar-bg"/>
-    <rect x="0" y="16" width="62" height="8" fill="url(#jsGrad)" class="bar-fill"/>
+    <rect x="0" y="16" width="61" height="8" fill="url(#jsGrad)" class="bar-fill"/>
   </g>
 
   <!-- Language 4: Modern Web (HTML/CSS) -->
   <g transform="translate(25, 156)">
     <circle cx="4" cy="5" r="4" fill="#F59E0B"/>
     <text x="16" y="9" class="lang-lbl">HTML5 / CSS3 / Web UI</text>
-    <text x="405" y="9" class="lang-pct" fill="#F59E0B">6.5%</text>
+    <text x="405" y="9" class="lang-pct" fill="#F59E0B">6.4%</text>
     <rect x="0" y="16" width="410" height="8" class="bar-bg"/>
     <rect x="0" y="16" width="26" height="8" fill="url(#webGrad)" class="bar-fill"/>
   </g>
@@ -100,8 +100,8 @@
   <g transform="translate(25, 192)">
     <circle cx="4" cy="5" r="4" fill="#38BDF8"/>
     <text x="16" y="9" class="lang-lbl">Build &amp; System Scripts (CMake / Shell)</text>
-    <text x="405" y="9" class="lang-pct" fill="#38BDF8">2.3%</text>
+    <text x="405" y="9" class="lang-pct" fill="#38BDF8">4.2%</text>
     <rect x="0" y="16" width="410" height="8" class="bar-bg"/>
-    <rect x="0" y="16" width="9" height="8" fill="url(#otherGrad)" class="bar-fill"/>
+    <rect x="0" y="16" width="17" height="8" fill="url(#otherGrad)" class="bar-fill"/>
   </g>
 </svg>
